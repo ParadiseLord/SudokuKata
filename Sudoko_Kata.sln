@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoko_Kata", "Sudoko_Kata\Sudoko_Kata.csproj", "{DEAD09EB-BC25-4679-8C8C-74F42131A549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudoKo_Test", "SudoKo_Test\SudoKo_Test.csproj", "{49207DA8-7FB7-4F03-85CC-2269F7E1C872}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEAD09EB-BC25-4679-8C8C-74F42131A549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEAD09EB-BC25-4679-8C8C-74F42131A549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEAD09EB-BC25-4679-8C8C-74F42131A549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEAD09EB-BC25-4679-8C8C-74F42131A549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49207DA8-7FB7-4F03-85CC-2269F7E1C872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49207DA8-7FB7-4F03-85CC-2269F7E1C872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49207DA8-7FB7-4F03-85CC-2269F7E1C872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49207DA8-7FB7-4F03-85CC-2269F7E1C872}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

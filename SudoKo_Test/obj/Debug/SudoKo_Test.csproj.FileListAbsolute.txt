@@ -1,0 +1,14 @@
+D:\PooyaWorkSpace\Personal\Github_Sources\Sudoko_Kata\SudoKo_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\PooyaWorkSpace\Personal\Github_Sources\Sudoko_Kata\SudoKo_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\PooyaWorkSpace\Personal\Github_Sources\Sudoko_Kata\SudoKo_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\PooyaWorkSpace\Personal\Github_Sources\Sudoko_Kata\SudoKo_Test\bin\Debug\SudoKo_Test.dll
+D:\PooyaWorkSpace\Personal\Github_Sources\Sudoko_Kata\SudoKo_Test\bin\Debug\SudoKo_Test.pdb
+D:\PooyaWorkSpace\Personal\Github_Sources\Sudoko_Kata\SudoKo_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\PooyaWorkSpace\Personal\Github_Sources\Sudoko_Kata\SudoKo_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\PooyaWorkSpace\Personal\Github_Sources\Sudoko_Kata\SudoKo_Test\bin\Debug\Sudoko_Kata.dll
+D:\PooyaWorkSpace\Personal\Github_Sources\Sudoko_Kata\SudoKo_Test\bin\Debug\Sudoko_Kata.pdb
+D:\PooyaWorkSpace\Personal\Github_Sources\Sudoko_Kata\SudoKo_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\PooyaWorkSpace\Personal\Github_Sources\Sudoko_Kata\SudoKo_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\PooyaWorkSpace\Personal\Github_Sources\Sudoko_Kata\SudoKo_Test\obj\Debug\SudoKo_Test.csprojResolveAssemblyReference.cache
+D:\PooyaWorkSpace\Personal\Github_Sources\Sudoko_Kata\SudoKo_Test\obj\Debug\SudoKo_Test.dll
+D:\PooyaWorkSpace\Personal\Github_Sources\Sudoko_Kata\SudoKo_Test\obj\Debug\SudoKo_Test.pdb

@@ -1,0 +1,5 @@
+D:\PooyaWorkSpace\Personal\Github_Sources\Sudoko_Kata\Sudoko_Kata\bin\Debug\Sudoko_Kata.dll
+D:\PooyaWorkSpace\Personal\Github_Sources\Sudoko_Kata\Sudoko_Kata\bin\Debug\Sudoko_Kata.pdb
+D:\PooyaWorkSpace\Personal\Github_Sources\Sudoko_Kata\Sudoko_Kata\obj\Debug\Sudoko_Kata.csprojResolveAssemblyReference.cache
+D:\PooyaWorkSpace\Personal\Github_Sources\Sudoko_Kata\Sudoko_Kata\obj\Debug\Sudoko_Kata.dll
+D:\PooyaWorkSpace\Personal\Github_Sources\Sudoko_Kata\Sudoko_Kata\obj\Debug\Sudoko_Kata.pdb
